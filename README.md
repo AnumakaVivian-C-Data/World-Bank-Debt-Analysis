@@ -10,9 +10,10 @@ An analysis of global debt statistics using Microsoft Excel to uncover external 
 **Fastest growth came from smaller economies. Despite holding far less total debt, countries like Fiji (+89%), Togo (+67%), and Benin (+66%) saw the steepest debt growth from 2020–2024.
 
 ###📊 Live Interactive Dashboard
+https://github.com/AnumakaVivian-C-Data/World-Bank-Debt-Analysis/blob/main/World%20Bank%20png.png
 
 ##💵 Project Overview
 This project analyzes international debt statistics collected by the World Bank. The goal is to evaluate foreign debt situations, distributions, and trends across various low- and middle-income developing nations.
 
 ##🛠️Tools Used
-* **Microsoft Excel:**Data preparation,cleaning,,and initial structural cheeks
+* **Microsoft Excel:**Data preparation,cleaning,,and initial structural checks
